@@ -128,17 +128,35 @@ Sales-analytics/
 
 ## Key Insights
 
-Based on the current product catalogue dataset:
+Based on the analysis of 30 product records:
 
-- **Product Distribution:** Product categories can be compared to understand how the catalogue is distributed across different product types.
-- **Pricing Analysis:** Average prices can be compared across categories to identify differences in product pricing.
-- **Stock Analysis:** Stock levels can be analyzed by category to understand product availability within the catalogue.
-- **Customer Ratings:** Product ratings can be explored alongside prices to observe patterns in customer ratings.
-- **Discount Analysis:** Discount percentages can be compared across categories to understand pricing and promotional patterns.
-- **Availability Monitoring:** Product availability statuses can be used to review the current availability of listed products.
+- **Product Distribution:** Groceries is the largest category, with 15 products, representing 50% of the dataset.
+- **Pricing Analysis:** Furniture has the highest average price at ₹1,199.99, while groceries has the lowest average price at ₹6.04.
+- **Stock Analysis:** Groceries has the highest total stock at 731 units, accounting for approximately 44.4% of the total stock.
+- **Rating Analysis:** Furniture has the highest average product rating at 4.01 out of 5.
+- **Discount Analysis:** Beauty products have the highest average discount at 12.42%.
+- **Category Comparison:** The dataset shows differences in pricing, stock levels, ratings, and discounts across the four product categories.
 
-*These observations describe product catalogue data. They should not be interpreted as actual sales performance or customer purchasing behavior.*
+*These findings describe the current product catalogue dataset and do not represent actual sales, revenue, or customer purchasing behavior.*
 
+## Key Insights
+
+Based on the analysis of 30 products, the following insights were identified:
+
+- **Largest Category:** Groceries has 15 products, representing 50% of the dataset.
+- **Highest Average Price:** Furniture has the highest average price at ₹1,199.99.
+- **Lowest Average Price:** Groceries has the lowest average price at ₹6.04.
+- **Highest Total Stock:** Groceries has 731 units in stock, approximately 44.4% of the total stock.
+- **Highest Average Rating:** Furniture has the highest average product rating of 4.01 out of 5.
+- **Highest Average Discount:** Beauty products have the highest average discount at 12.42%.
+
+### Business Observations
+
+- The furniture category has significantly higher average prices than the other categories.
+- Groceries contribute the largest share of products and available stock in the dataset.
+- Average ratings and discounts vary across product categories.
+
+**Note:** These insights describe the available product catalogue data. They do not represent actual sales, revenue, or customer purchasing behaviour.
 
 ## Future Improvements
 
