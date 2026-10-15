@@ -110,9 +110,9 @@ Sales-analytics/
 ├── data/
 │   └── raw/
 ├── docs/
-├── notebooks/
+├── notebook/
 │   └── 01_eda_products.ipynb
-├── screenshots/
+├── image/
 │   ├── dashboard_page1.png
 │   └── dashboard_page2.png
 ├── sql/
@@ -124,8 +124,21 @@ Sales-analytics/
 ├── README.md
 └── requirements.txt
 ```
-
 *The folder structure above should match the actual files in your repository; adjust it if your folders differ.*
+
+## Key Insights
+
+Based on the current product catalogue dataset:
+
+- **Product Distribution:** Product categories can be compared to understand how the catalogue is distributed across different product types.
+- **Pricing Analysis:** Average prices can be compared across categories to identify differences in product pricing.
+- **Stock Analysis:** Stock levels can be analyzed by category to understand product availability within the catalogue.
+- **Customer Ratings:** Product ratings can be explored alongside prices to observe patterns in customer ratings.
+- **Discount Analysis:** Discount percentages can be compared across categories to understand pricing and promotional patterns.
+- **Availability Monitoring:** Product availability statuses can be used to review the current availability of listed products.
+
+*These observations describe product catalogue data. They should not be interpreted as actual sales performance or customer purchasing behavior.*
+
 
 ## Future Improvements
 
