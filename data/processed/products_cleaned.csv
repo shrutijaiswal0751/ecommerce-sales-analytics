@@ -14,18 +14,18 @@ id,title,category,price,discountPercentage,rating,stock,brand,availabilityStatus
 13,Bedside Table African Cherry,furniture,299.99,19.09,2.87,64,Furniture Co.,In Stock
 14,Knoll Saarinen Executive Conference Chair,furniture,499.99,2.01,4.88,26,Knoll,In Stock
 15,Wooden Bathroom Sink With Mirror,furniture,799.99,8.8,3.59,7,Bath Trends,Low Stock
-16,Apple,groceries,1.99,12.62,4.19,8,,In Stock
-17,Beef Steak,groceries,12.99,9.61,4.47,86,,In Stock
-18,Cat Food,groceries,8.99,9.58,3.13,46,,In Stock
-19,Chicken Meat,groceries,9.99,13.7,3.19,97,,In Stock
-20,Cooking Oil,groceries,4.99,9.33,4.8,10,,In Stock
-21,Cucumber,groceries,1.49,0.16,4.07,84,,In Stock
-22,Dog Food,groceries,10.99,10.27,4.55,71,,In Stock
-23,Eggs,groceries,2.99,11.05,2.53,9,,In Stock
-24,Fish Steak,groceries,14.99,4.23,3.78,74,,In Stock
-25,Green Bell Pepper,groceries,1.29,0.16,3.25,33,,In Stock
-26,Green Chili Pepper,groceries,0.99,1.0,3.66,3,,Low Stock
-27,Honey Jar,groceries,6.99,14.4,3.97,34,,In Stock
-28,Ice Cream,groceries,5.49,8.69,3.39,27,,In Stock
-29,Juice,groceries,3.99,12.06,3.94,50,,In Stock
-30,Kiwi,groceries,2.49,15.22,4.93,99,,In Stock
+16,Apple,groceries,1.99,12.62,4.19,8,Unknown,In Stock
+17,Beef Steak,groceries,12.99,9.61,4.47,86,Unknown,In Stock
+18,Cat Food,groceries,8.99,9.58,3.13,46,Unknown,In Stock
+19,Chicken Meat,groceries,9.99,13.7,3.19,97,Unknown,In Stock
+20,Cooking Oil,groceries,4.99,9.33,4.8,10,Unknown,In Stock
+21,Cucumber,groceries,1.49,0.16,4.07,84,Unknown,In Stock
+22,Dog Food,groceries,10.99,10.27,4.55,71,Unknown,In Stock
+23,Eggs,groceries,2.99,11.05,2.53,9,Unknown,In Stock
+24,Fish Steak,groceries,14.99,4.23,3.78,74,Unknown,In Stock
+25,Green Bell Pepper,groceries,1.29,0.16,3.25,33,Unknown,In Stock
+26,Green Chili Pepper,groceries,0.99,1.0,3.66,3,Unknown,Low Stock
+27,Honey Jar,groceries,6.99,14.4,3.97,34,Unknown,In Stock
+28,Ice Cream,groceries,5.49,8.69,3.39,27,Unknown,In Stock
+29,Juice,groceries,3.99,12.06,3.94,50,Unknown,In Stock
+30,Kiwi,groceries,2.49,15.22,4.93,99,Unknown,In Stock
