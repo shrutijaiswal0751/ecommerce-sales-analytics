@@ -27,7 +27,7 @@ def main():
     df.columns = df.columns.str.strip()
 
     # Text columns mein extra spaces remove karna
-    for column in df.select_dtypes(include="object").columns:
+    for column in df.select_dtypes(include=["object", "str"]).columns:
         df[column] = df[column].str.strip()
 
     # Brand ki missing values ko Unknown se fill karna
